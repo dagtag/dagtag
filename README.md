@@ -1,12 +1,12 @@
-### Hi there 👋, I'm Alyssa Murray!
+## Hi there 👋, I'm Alyssa Murray!
 
-## A driven Data Scientist 
+### A driven Data Scientist 
 - 🔭 I’m currently working on [Human Rights First, DocDB](https://a.humanrightsfirstdocdb.dev/login)
 - 🌱 I’m currently learning 
 - 💬 Ask me about travel nursing during Covid
 - 📫 How to reach me: murray.alyssa@gmail.com
 
-## Languages and Tools
+### Languages and Tools
 
 
 <!--
