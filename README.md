@@ -1,6 +1,13 @@
 ### Hi there 👋, I'm Alyssa Murray!
 
-🔭 I’m currently working on [Human Rights First, DocDB](https://a.humanrightsfirstdocdb.dev/login)
+## ** A driven Data Scientist **
+- 🔭 I’m currently working on [Human Rights First, DocDB](https://a.humanrightsfirstdocdb.dev/login)
+- 🌱 I’m currently learning 
+- 💬 Ask me about travel nursing during Covid
+- 📫 How to reach me: murray.alyssa@gmail.com
+
+## Languages and Tools
+
 
 <!--
 **dagtag/dagtag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
