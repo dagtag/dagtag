@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on [Human Rights First, DocDB](https://a.humanrightsfirstdocdb.dev/login)
 - 🌱 I’m currently learning everything I can
+- 🎓 Recent Lambda School, Data Science graduate
 - 💬 Ask me about travel nursing during a pandemic
 - ⚡ Fun fact: I never turn down an opportunity to hike or climb rocks 
 - 📫 How to reach me: murray.alyssa@gmail.com
