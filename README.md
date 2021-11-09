@@ -7,7 +7,7 @@
 - 📫 How to reach me: murray.alyssa@gmail.com
 
 ### Languages and Tools
-
+![alt text](https://www.python.org/static/img/python-logo@2x.png)
 
 ![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagtag&count_private=true&theme=dark)
 <!--
